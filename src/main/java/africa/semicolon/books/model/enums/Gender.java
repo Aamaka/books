@@ -1,2 +1,5 @@
-package africa.semicolon.books.model.enums;public enum Gender {
+package africa.semicolon.books.model.enums;
+
+public enum Gender {
+    MALE, FEMALE
 }

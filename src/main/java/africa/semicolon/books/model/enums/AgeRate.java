@@ -1,5 +1,5 @@
-package africa.semicolon.books.model;
+package africa.semicolon.books.model.enums;
 
-public class AgeRate {
-
+public enum AgeRate {
+    UNIVERSAL, PG, PG13, NC17, R, X_RATED
 }
